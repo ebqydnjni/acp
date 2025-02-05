@@ -1,4 +1,5 @@
 📊 Analyse des Données Criminelles de Denver
+
 🔍 Introduction
 Ce projet vise à analyser les infractions pénales enregistrées dans la ville de Denver, CO. À travers l'exploration de données, la visualisation et l'analyse en composantes principales (ACP), nous cherchons à identifier des tendances et à extraire des informations clés sur la criminalité.
 
